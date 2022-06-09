@@ -21,4 +21,4 @@ you'll see there is submit button which is hidden,
 ![image](https://user-images.githubusercontent.com/54913762/172814556-b7927743-52e1-48c0-93fc-a959c4ae6f84.png)
 
 simply inspect the element and edit that out, and after submitting we'll get the flag
-> Flag : bcactf{tH4TZ_D4_R34l_D3Al_cb8949} 
+> Flag : bcactf{sT41r_c4A3_m45T3R_5jfUn9Z}
