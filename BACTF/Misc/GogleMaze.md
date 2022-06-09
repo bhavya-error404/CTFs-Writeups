@@ -7,8 +7,6 @@ Make it to the end of my endless maze to get the flag!
 )
 ## Solution
 
-flag is in page source code, select the submit button and click over inspect element, there you'll find the flag in function written over there.
+Flag is in page source code, select the submit button and click over inspect element, there you'll find the flag in function written over there.
 
-```
-Flag : bcactf{f4rthER_th4n_m3eTS_th3_EY3_9928ef}
-```
+> Flag : bcactf{f4rthER_th4n_m3eTS_th3_EY3_9928ef}
